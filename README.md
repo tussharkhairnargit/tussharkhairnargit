@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I’m Tushar Khairnar  
 
-<!--
-**tussharkhairnargit/tussharkhairnargit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a **Senior Front-End Developer** with 8+ years of experience building robust, scalable, and user-friendly applications. My expertise lies in **JavaScript, TypeScript, Angular, Node.js, and Java**, with a strong focus on clean architecture and performance.  
 
-Here are some ideas to get you started:
+🚀 I enjoy solving complex problems, designing maintainable systems, and contributing to products that make an impact.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech I work with  
+- **Frontend:** Angular (2+), TypeScript, ES6, HTML5, CSS3  
+- **Backend:** Node.js, Spring Boot, REST APIs, gRPC (learning)  
+- **Databases:** MySQL, PostgreSQL  
+- **Other Tools:** Git, Docker, CI/CD pipelines  
+
+## 🤝 Open to Collaboration  
+I’m open to collaborating on interesting projects, especially in **frontend frameworks, system design, or open-source contributions**.  
+
+## 📫 How to Reach Me  
+- [LinkedIn](https://www.linkedin.com/in/tushar-khairnar/)
+
+
