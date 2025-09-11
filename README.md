@@ -14,6 +14,4 @@
 I’m open to collaborating on interesting projects, especially in **frontend frameworks, system design, or open-source contributions**.  
 
 ## 📫 How to Reach Me  
-- [LinkedIn](https://www.linkedin.com/in/tushar-khairnar/)
-
-
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>](https://www.linkedin.com/in/tushar-khairnar/)
