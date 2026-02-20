@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Tushar Khairnar  
 
-💻 I’m a **Senior Front-End Developer** with 8+ years of experience building robust, scalable, and user-friendly applications. My expertise lies in **JavaScript, TypeScript, Angular, Node.js, and Java**, with a strong focus on clean architecture and performance.  
+💻 I’m a **Senior Front-End Developer** with 9+ years of experience building robust, scalable, and user-friendly applications. My expertise lies in **JavaScript, TypeScript, Angular, Node.js, and Java**, with a strong focus on clean architecture and performance.  
 
 🚀 I enjoy solving complex problems, designing maintainable systems, and contributing to products that make an impact.  
 
