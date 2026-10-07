@@ -11,19 +11,19 @@ Technical Lead and Software Engineer with over 9.7 years of hands-on experience 
 
 ## Core Competencies
 
-- Angular Framework
 - Angular 14+
+- Angular Framework
+- Angular Elementes
+- Angular Material
 - Ionic 6
 - TypeScript
 - JavaScript
 - RxJS
 - NGRX
-- React
-- Redux Toolkit
+- Node.js
 - HTML5
 - CSS3
 - SCSS
-- Node.js
 - REST APIs
 - GraphQL
 - Spring Boot
@@ -45,10 +45,10 @@ Technical Lead and Software Engineer with over 9.7 years of hands-on experience 
 - Docker
 - Postman
 - Chrome DevTools
-- Lighthouse
-- SonarQube
 - Technical Mentoring
 - AI-Assisted Development
+- React
+- React ToolKit
 
 ## Professional Experience
 
@@ -93,7 +93,6 @@ ITarium Technologie India Private Limited (GTT Data company)
 
 - Performed code review and vulnerability assessment activities for the platform.
 - Supported application migration from version 19 to version 21.
-- Optimized API calling within the application for improved performance.
 - Reviewed application implementation to identify areas requiring performance and quality improvements.
 - Applied frontend development and troubleshooting experience to support application stability and maintainability.
 
